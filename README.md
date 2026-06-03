@@ -1,2 +1,26 @@
-# TASK3-NETFLIX-LR
-Linear Regression Analysis of the Netflix Movies and TV Shows Dataset using Python, Pandas, Matplotlib, and Scikit-learn to predict content duration based on release year and uncover relationships, trends, model performance, and data-driven insights.
+Task 3 - Linear Regression
+
+ Objective
+Implement Simple and Multiple Linear Regression using Scikit-learn.
+
+Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+ Dataset
+Netflix Dataset
+
+## Steps Performed
+1. Imported dataset
+2. Cleaned missing values
+3. Selected features
+4. Split data into training and testing sets
+5. Trained Linear Regression model
+6. Evaluated using:
+   - MAE
+   - MSE
+   - R² Score
+7. Visualized predictions
+
